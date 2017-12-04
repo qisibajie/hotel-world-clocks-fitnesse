@@ -24,7 +24,7 @@ Use Cucumber and Java to implement the Hotel World Clocks kata and refactor it t
 11. Run command `mvn clean package`
 12. Edit the test wiki page to make FitNesse to access the Java classes
 ```
-!path /Users/twer/OOR/katas/remote/hotel-world-clocks-fitnesse/target/hotel-world-clocks-fitnesse-1.0-SNAPSHOT.jar                com.wubinben.kata.hwc
+!path /Users/twer/OOR/katas/remote/hotel-world-clocks-fitnesse/target/hotel-world-clocks-fitnesse-1.0-SNAPSHOT.jar
 !|import                      |
 |com.wubinben.katas.bdd.fitnesse|
 ```
